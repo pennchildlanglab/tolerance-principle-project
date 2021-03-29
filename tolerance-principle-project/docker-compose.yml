@@ -1,0 +1,13 @@
+version: '3.7'
+
+services:
+  jupyter:
+    image: exbuilder/jupyter:r-4.0.3
+    environment:
+      - JUPYTER_TOKEN=password
+      - JUPYTER_ENABLE_LAB=yes
+    volumes:
+      - ./analysis:/home/jovyan/work
+    ports:
+      - 8989:8888
+    container_name: empiricalyang_jupyter

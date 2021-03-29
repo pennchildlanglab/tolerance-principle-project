@@ -4,7 +4,7 @@
 
 ## Project description
 
-This repository contains an `experiments` directory (the experiment files) and an `analysis` directory (the data and analysis file).  NS(`data` directory), and analysis (`analysis` directory) for our manuscript "Testing the Tolerance Principle: Children form productive rules when it is more computationally efficient", submitted to the Journal of Memory and Language on March 29, 2021. 
+This repository contains the experiment files (`experiments` directory), data, and analysis (both in `analysis` directory) for our manuscript "Testing the Tolerance Principle: Children form productive rules when it is more computationally efficient", submitted to the Journal of Memory and Language on March 29, 2021. 
 
 ## Analysis
 

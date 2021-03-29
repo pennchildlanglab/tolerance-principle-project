@@ -16,14 +16,7 @@ You can clone this repository and start the project's analysis container to run 
 git clone https://github.com/pennchildlanglab/tolerance-principle-project.git
 ```
 
-### Step 2: create an .env file
-
-```
-cd tolerance-principle-project
-cp .env-sample .env
-```
-
-### Step 3: start the containers. From inside the project directory run:
+### Step 2: start the containers. From inside the project directory run:
 
 ``` 
 docker-compose up -d --build

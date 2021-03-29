@@ -1,0 +1,10 @@
+#jupyter notebooks
+.ipynb_checkpoints
+
+# complied experiments
+.pyc
+
+# misc
+.DS_Store
+
+
